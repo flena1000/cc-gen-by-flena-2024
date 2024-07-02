@@ -1,7 +1,7 @@
 # Credit Card Generator
 
 ## Free BIN
-553890
+Get free BIN from any website just search: Nitro Claim BIN. ( Make sure that the BIN is latest one. )
 
 ## Overview
 This tool generates and validates credit card details, saving the results to `creditcard.txt` and `checkedcard.txt`. The tool includes fixed credits that must not be edited. Additionally, it validates Discord Nitro promo codes using an API.
