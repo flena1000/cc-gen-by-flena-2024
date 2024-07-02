@@ -18,7 +18,7 @@ This tool generates and validates credit card details, saving the results to `cr
 ### Generating Credit Cards
 1. Run the script:
     ```sh
-    python script.py
+    python main.py
     ```
 2. When prompted, enter the number of credit cards to generate.
 3. Generated credit cards will be saved to `creditcard.txt`.
